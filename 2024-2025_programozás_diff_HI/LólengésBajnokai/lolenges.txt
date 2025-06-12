@@ -1,0 +1,32 @@
+Év;ROrszág;RVaros;BNév;BOrszág;Kor
+1896;Gorogorszag;Athen;Louis Zutter;Svajc;31	
+1904;USA;St.Louis;Anton Heida;USA;26
+1924;Franciaorszag;Parizs;Josef Wilhelm;Svajc;32
+1928;Hollandia;Amszterdam;Hermann Hanggi;Svajc;34
+1932;USA;LosAngeles;Pelle Istvan;Magyarorszag;25
+1936;Nemetorszag;Berlin;Konrad Frey;Nemetorszag;27
+1948;Nagy-Britannia;London;Paavo Aaltonen;Finnorszag;29
+1948;Nagy-Britannia;London;Veikko Huhtanen;Finnorszag;29
+1948;Nagy-Britannia;London;Heikki Savolainen;Finnorszag;41
+1952;Finnorszag;Helsinki;Viktor Csukarin;Szovjetunio;31
+1956;Ausztralia;Melbourne;Borisz Sahlin;Szovjetunio;24
+1960;Olaszorszag;Roma;Eugen Ekman;Finnorszag;23
+1960;Olaszorszag;Roma;Borisz Sahlin;Szovjetunio;28
+1964;Japan;Tokio;Miroslav Cerar;Jugoszlavia;25
+1968;Mexiko;Mexikovaros;Miroslav Cerar;Jugoszlavia;29
+1972;NSZK;München;Viktor Klimenko;Szovjetunio;23
+1976;Kanada;Montreal;Magyar Zoltan;Magyarorszag;23
+1980;Szovjetunio;Moszkva;Magyar Zoltan;Magyarorszag;27
+1984;USA;LosAngeles;Li Ning;Kina;21
+1984;USA;LosAngeles;Peter Glen Vidmar;USA;23
+1988;Del-Korea;Szoul;Borkai Zsolt;Magyarorszag;33
+1988;Del-Korea;Szoul;Dmitrij Bilozercsev;Szovjetunio;25
+1988;Del-Korea;Szoul;Ljubomir Geraskov;Bulgaria;19
+1992;Spanyolorszag;Barcelona;Pae Gil Szu;Del-Korea;20
+1992;Spanyolorszag;Barcelona;Vitalij Scserbo;Fehéroroszország;25
+1996;USA;Atlanta;Li Donghua;Svajc;29
+2000;Ausztralia;Sydney;Marius Urzica;Romania;25
+2004;Gorogorszag;Athen;Teng Haj-Pin;Kina;22
+2008;Kina;Peking;Xiao Qin;Kina;23
+2012;Nagy-Britannia;London;Berki Krisztian;Magyarorszag;27
+2016;Brazilia;Rio de Janeiro;Max Whitlock;Nagy-Britannia;23

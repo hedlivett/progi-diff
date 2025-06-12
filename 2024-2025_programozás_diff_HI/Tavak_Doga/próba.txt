@@ -1,0 +1,51 @@
+Tó;Terület_km2
+Kaszpi-tenger;371000
+Felső-tó;82411
+Viktória-tó;69482
+Huron-tó;59594
+Michigan-tó;58014
+Aral-tó;41000
+Tanganyika-tó;32892
+Bajkál-tó;31500
+Nagy-Medve-tó;31079
+Malawi (Nyasza)-tó;30043
+Nagy-Rabszolga-tó;28929
+Erie-tó;25744
+Winnipeg-tó;23541
+Ontario-tó;19528
+Balkas-tó;18300
+Ladoga-tó;17700
+Csád-tó;24750
+Eyre-tó;15000
+Onyega-tó;9720
+Titicaca-tó;8135
+Nicaragua-tó;8001
+Athabasca-tó;7920
+Turkana (Rudolf)-tó;8000
+Rénszarvas-tó;6330
+Iszik-köl;6280
+Urmia-tó;6001
+Nettilling-tó;5760
+Vänem;5585
+Winnipegosis-tó;5402
+Mobutu (Albert)-tó;5299
+Dongting-tó;5000
+Bangweulu-tó;5000
+Nipigon-tó;4843
+Manitoba-tó;4706
+Gairdner-tó;7700
+Tajmír-tó;4560
+Kuku-nór (Qinghai-tó);5700
+Mweru-tó;4196
+Hanka-tó;4190
+Dubawnt-tó;4144
+Erdők tava;3846
+Van-tó;3763
+Csúd-tó;3550
+Uvsz-tó;3350
+Tana-tó;3100
+Torrens-tó;5700
+Rukwa-tó;3000
+Melville-tó;2990
+Zajszan-tó;2800
+Boyangi-tó;2771
